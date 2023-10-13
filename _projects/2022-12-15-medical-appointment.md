@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "Investigate Medical Appointments"
+title: Investigate Medical Appointments
 date: 2022-12-15
 # tags: [eda, analysis]
 # type: "project"
-author: "Zeid Ombotimbe"
+# author: "Zeid Ombotimbe"
 disqus: false
 ---
 

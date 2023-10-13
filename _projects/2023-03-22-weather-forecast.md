@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "Forecasting the Weather Using Facebook's Prophet Algorithm"
+title: Forecasting the Weather Using Facebook's Prophet Algorithm
 date: 2023-03-22
 # tags: [eda, forecast]
 # type: "project"
-author: "Zeid Ombotimbe"
+# author: "Zeid Ombotimbe"
 disqus: false
 ---
 

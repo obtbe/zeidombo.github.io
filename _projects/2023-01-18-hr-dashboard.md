@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "HR Analytics Dashboard in Power BI"
+title: HR Analytics Dashboard in Power BI
 date: 2023-01-18
 # tags: [dashboard, analysis]
 # type: "project"
-author: "Zeid Ombotimbe"
+# author: "Zeid Ombotimbe"
 disqus: false
 ---
 
