@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: What Running a Coding Boot Camp Taught Me About Programming
 date: 2022-09-02
 categories: [programming, python]
