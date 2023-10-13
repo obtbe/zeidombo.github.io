@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: post
 disqus: false
 ---
 
