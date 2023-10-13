@@ -1,0 +1,40 @@
+---
+title: "Investigate Medical Appointments"
+date: 2022-12-15
+tags: [eda, analysis]
+type: "project"
+author: "Zeid Ombotimbe"
+disqus: false
+---
+
+A person takes a doctor's appointment, receives all the instructions, and no-show. Who's to blame?
+In this project, I will try to analyse why would some patient not show up for their medical appointment or whether there are reasons for that using the data we have. I will try to find some correlation betwen the different attributes and whether the patient shows up or not. The dataset I'm are going to use contains 110.527 medical appointments and its 14 associated variables ( PatientId, AppointmentID, Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hypertension, Diabetes, Alcoholism, Handcap', SMS_received, No-show )
+
+### Questions to answer
+
+*   What is the percentage of no-show?
+*   What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
+    *   Is the time gender related to whether a patient will show or not?
+    *   Are patients with scholarship more likely to miss their appointment?
+    *   Are patients who don't recieve sms more likely to miss their appointment?
+    *   Is the time difference between the scheduling and appointment related to whether a patient will show?
+    *   Does age affect whether a patient will show up or not?
+    *   What is the percentage of patients missing their appointments for every neighbourhood
+
+#### After analyzing the dataset here are some findings:
+
+1.  Percentage of patients who didn't show up for their appointment is 20.19%.
+2.  The percentage of females missing their appointment is nearly two times the number of males. So females are more likely to miss their appointment.
+3.  It appears that the longer the period between the scheduling and appointment the more likely the patient won't show up.
+4.  It seems that patients with scholarships are actually more likely to miss their appointment.
+5.  A strange finding here suggests that patients who received an SMS are more likely to miss their appointment !!
+6.  There is no clear relation between the age and whether the patients show up or not but younger patients are more likely to miss their appointments.
+
+#### Analysis Shortcoming & Data Limitations
+
+*   The data doesn't state the exact hour of the appointment which would have been very useful to try to find out which hours have the most missing appointments and which doesn't. It could also be very useful to know the difference between scheduling and the appointment since many of the scheduling are on the same day.
+*   The data doesn't state if any day is a vacation or not which can indicate if people tend to miss their appointments more on working days.
+*   The age column had a negative value but according to the data creator, it means a baby not born yet (a pregnant woman).
+*   When calculating the day difference between the scheduling and appointment days we had some negative value which makes no sense and might mean that the records of questions have wrong data.
+
+Check the full project [here](https://nbviewer.org/github/zeidombo/investigate-medical-appointment/blob/master/investigate_medical_appointment.ipynb).
