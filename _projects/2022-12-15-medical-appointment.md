@@ -5,7 +5,7 @@ date: 2022-12-15
 # tags: [eda, analysis]
 # type: "project"
 # author: "Zeid Ombotimbe"
-disqus: false
+# disqus: false
 ---
 
 A person takes a doctor's appointment, receives all the instructions, and no-show. Who's to blame?
