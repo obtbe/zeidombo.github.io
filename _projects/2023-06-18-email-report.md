@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Email Report in Power BI"
-date: 2023-01-18
+date: 2023-06-18
 tags: [dashboard, analysis]
 # type: "project"
 author: "Zeid Ombotimbe"
