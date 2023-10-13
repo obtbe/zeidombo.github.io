@@ -2,7 +2,7 @@
 layout: project
 title: "Fraud and ID Theft Dashboard using Streamlit and Folium"
 date: 2023-05-25
-tags: [dashboard, streamlit]
+# tags: [dashboard, streamlit]
 type: "project"
 author: "Zeid Ombotimbe"
 disqus: false
