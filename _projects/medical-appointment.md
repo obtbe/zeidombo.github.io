@@ -1,8 +1,9 @@
 ---
+layout: project
 title: "Investigate Medical Appointments"
 date: 2022-12-15
 tags: [eda, analysis]
-type: "project"
+# type: "project"
 author: "Zeid Ombotimbe"
 disqus: false
 ---

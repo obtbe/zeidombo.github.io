@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "Forecasting the Weather Using Facebook's Prophet Algorithm"
 date: 2023-01-22
 tags: [eda, forecast]

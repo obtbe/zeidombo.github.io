@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "Fraud and ID Theft Dashboard using Streamlit and Folium"
 date: 2023-01-31
 tags: [dashboard, streamlit]
