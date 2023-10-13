@@ -5,7 +5,7 @@ layout: default
 <div class="project-content">
   <h1>{{ page.title }}</h1>
   <ul>
-    {% for project in site.projects %}
+    {% for project in site._projects %}
       <li>
         <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>
       </li>
@@ -15,7 +15,7 @@ layout: default
   <!-- Separator -->
   <hr />
 
-  <!-- Message and link to contact page -->
+  <!-- Message and link to the contact page -->
   <div class="project-message">
     If you have questions or comments about any of these projects, please feel free to <a href="{{ site.baseurl }}/contact">get in touch</a>.
   </div>
