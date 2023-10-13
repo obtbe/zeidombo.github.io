@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="project-content">
+<div class="project">
   <h1>{{ page.title }}</h1>
   <ul>
-    {% for project in site._projects %}
+    {% for project in site.projects %}
       <li>
         <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>
       </li>
