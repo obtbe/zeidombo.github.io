@@ -3,7 +3,7 @@ layout: blog
 title: What Running a Coding Boot Camp Taught Me About Programming
 date: 2022-09-02
 categories: [programming, python]
-disqus: false
+# disqus: false
 ---
 
 As a data analyst and coding enthusiast, I have always been interested in the world of programming. When the opportunity arose to run a coding boot camp for beginners, I jumped at the chance to share my passion for coding with others and to learn more about the world of programming myself.
