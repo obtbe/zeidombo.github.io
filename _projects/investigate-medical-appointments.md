@@ -2,7 +2,7 @@
 layout: project
 title: Investigate Medical Appointments
 date: 2022-12-15
-permalink: /projects/investigate-medical-appointments
+# permalink: /projects/investigate-medical-appointments
 ---
 
 A person takes a doctor's appointment, receives all the instructions, and no-show. Who's to blame?
