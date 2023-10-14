@@ -2,6 +2,7 @@
 layout: project
 title: Forecasting the Weather Using Facebook's Prophet Algorithm
 date: 2023-03-22
+permalink: /projects/weather-forecast
 ---
 
 <!-- <iframe src="https://nbviewer.org/github/zeidombo/weather-forecast-using-facebook-prophet/blob/master/weather_forecast.ipynb" width="811" height="667">
