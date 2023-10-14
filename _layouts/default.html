@@ -13,6 +13,21 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/my_styles.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    <style>
+      /* Custom styling for navigation sections */
+      .nav-section {
+        font-size: 18px;
+        font-weight: bold;
+        margin-right: 20px; /* Adjust the spacing between sections */
+        text-decoration: none;
+        color: blue; /* Adjust the color as needed */
+      }
+
+      .nav-section:hover {
+        color: red; /* Change the hover color as desired */
+      }
+    </style>
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -28,12 +43,12 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/projects">Projects</a> <!-- New: Projects -->
-            <a href="{{ site.baseurl }}/books">Books</a> <!-- New: Books -->
-            <a href="{{ site.baseurl }}/reading">Reading</a> <!-- New: Reading -->
-            <a href="{{ site.baseurl }}/contact">Contact</a> <!-- New: Contact -->
+            <a class="nav-section" href="{{ site.baseurl }}/">Blog</a>
+            <a class="nav-section" href="{{ site.baseurl }}/about">About</a>
+            <a class="nav-section" href="{{ site.baseurl }}/projects">Projects</a>
+            <a class="nav-section" href="{{ site.baseurl }}/books">Books</a>
+            <a class="nav-section" href="{{ site.baseurl }}/reading">Reading</a>
+            <a class="nav-section" href="{{ site.baseurl }}/contact">Contact</a>
           </nav>
         </header>
       </div>
