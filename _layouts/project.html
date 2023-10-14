@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<div class="project-content">
-  <h1>{{ page.title }}</h1>
+<article class="project">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="project-date">{{ page.date | date: "%B %d, %Y" }}</p>
+  </header>
 
-  <!-- List of project titles and links -->
-  <ul>
-    {% for project in site.projects %}
-      <li>
-        <a href="{{ project.permalink }}">{{ project.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <!-- Separator -->
-  <hr />
-
-  <!-- Message and link to the contact page -->
-  <div class="project-message">
-    If you have questions or comments about this project, please feel free to <a href="{{ site.baseurl }}/contact">get in touch</a>.
+  <div class="project-content">
+    {{ content }}
   </div>
-</div>
+
+  <footer>
+    <p class="back-link"><a href="{{ site.baseurl }}/projects">Back to Projects</a></p>
+  </footer>
+</article>
