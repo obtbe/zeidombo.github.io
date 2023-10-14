@@ -9,7 +9,7 @@ With growing expertise came tougher challenges, akin to breaking in a spirited c
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<h2 style="color: blue;">Email Report in Power BI</h2>
+<h2 style="color: red;">Email Report in Power BI</h2>
 
 <iframe title="Email Report - finished" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmM1ZmZiMjMtNDZlZS00ZjJlLTllOWQtYzhhMjBkNWQzZjUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -19,7 +19,7 @@ In this project, I created a captivating email report dashboard using Power BI. 
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<h2 style="color: blue;">HR Analytics Dashboard in Power BI</h2>
+<h2 style="color: red;">HR Analytics Dashboard in Power BI</h2>
 
 <iframe title="Power BI HR Dashboard - Home" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTk3ZmI0YWMtODYwNS00NTI0LTljM2QtNjU5ODUwN2Y2MWI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -27,7 +27,7 @@ This dashboard is built from a 1470-row open HR dataset collected from Kaggle. I
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<h2 style="color: blue;">Investigate Medical Appointments</h2>
+<h2 style="color: red;">Investigate Medical Appointments</h2>
 
 A person takes a doctor's appointment, receives all the instructions, and no-show. Who's to blame?
 In this project, I will try to analyse why would some patient not show up for their medical appointment or whether there are reasons for that using the data we have. I will try to find some correlation betwen the different attributes and whether the patient shows up or not. The dataset I'm are going to use contains 110.527 medical appointments and its 14 associated variables ( PatientId, AppointmentID, Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hypertension, Diabetes, Alcoholism, Handcap', SMS_received, No-show )
@@ -63,7 +63,7 @@ Check the full project [here](https://nbviewer.org/github/zeidombo/investigate-m
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<h2 style="color: blue;">Fraud and ID Theft Dashboard using Streamlit and Folium</h2>
+<h2 style="color: red;">Fraud and ID Theft Dashboard using Streamlit and Folium</h2>
 
 In this project I built a python streamlit dashboard app that visualizes data in an interactive folium map. The dashboard is a remake of [*Fraud and Identity Theft Report*](https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudandIDTheftMaps/AllReportsbyState) published by US Federal Trade Commission originally made with Tableau. I thought it might be challenging to replicate it with streamlit and it was time well spent.
 
@@ -74,7 +74,7 @@ See a demo [here](https://zytaga-streamlit-folium-dashboard-streamlit-app-1all7m
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
 
-<h2 style="color: blue;">Forecasting the Weather Using Facebook's Prophet Algorithm</h2>
+<h2 style="color: red;">Forecasting the Weather Using Facebook's Prophet Algorithm</h2>
 
 <!-- <iframe src="https://nbviewer.org/github/zeidombo/weather-forecast-using-facebook-prophet/blob/master/weather_forecast.ipynb" width="811" height="667">
 </iframe> -->
