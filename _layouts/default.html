@@ -15,11 +15,6 @@
 
     <style>
       /* Custom styling for navigation sections */
-      .nav-container {
-        max-width: 800px; /* Adjust the max-width as needed */
-        margin: 0 auto;
-      }
-
       .nav-section {
         font-size: 18px;
         font-weight: bold;
@@ -35,6 +30,12 @@
         border-color: red; /* Change the border color on hover */
         color: red; /* Change the text color on hover */
       }
+
+      nav {
+        max-width: 100%; /* Ensure the nav doesn't overflow the container */
+        text-align: center; /* Center the nav within its container */
+        margin: 0 auto; /* Center the nav within its container */
+      }
     </style>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -42,7 +43,7 @@
 
   <body>
     <div class="wrapper-masthead">
-      <div class="container nav-container">
+      <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
