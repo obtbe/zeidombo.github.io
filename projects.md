@@ -89,6 +89,6 @@ Check the full project [here](https://nbviewer.org/github/zeidombo/weather-forec
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<span style="font-size: 18px;">If you have questions or comments about any of these projects, please feel free to [get in touch](/contact).</span>
+<span style="font-size: 17px;">If you have questions or comments about any of these projects, please feel free to [get in touch](/contact).</span>
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
