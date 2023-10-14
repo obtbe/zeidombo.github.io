@@ -3,22 +3,14 @@ layout: default
 ---
 
 <div class="project-content">
-  <h1>{{ page.title }}</h1>
+  <h1>Projects</h1>
 
-  <!-- List of project titles and links -->
+  <!-- List of projects -->
   <ul>
-    {% for project in site.baseurl %}
+    {% for project in site.projects %}
       <li>
         <a href="{{ project.url }}">{{ project.title }}</a>
       </li>
     {% endfor %}
   </ul>
-
-  <!-- Separator -->
-  <hr />
-
-  <!-- Message and link to the contact page -->
-  <div class="project-message">
-    If you have questions or comments about this project, please feel free to <a href="{{ site.baseurl }}/contact">get in touch</a>.
-  </div>
 </div>
