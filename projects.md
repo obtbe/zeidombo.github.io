@@ -27,7 +27,7 @@ This dashboard is built from a 1470-row open HR dataset collected from Kaggle. I
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<h2 style="color: red;">Investigate Medical Appointments</h2>
+<h2 style="color: red;">Investigating Medical Appointments</h2>
 
 A person takes a doctor's appointment, receives all the instructions, and no-show. Who's to blame?
 In this project, I will try to analyse why would some patient not show up for their medical appointment or whether there are reasons for that using the data we have. I will try to find some correlation betwen the different attributes and whether the patient shows up or not. The dataset I'm are going to use contains 110.527 medical appointments and its 14 associated variables ( PatientId, AppointmentID, Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hypertension, Diabetes, Alcoholism, Handcap', SMS_received, No-show )
