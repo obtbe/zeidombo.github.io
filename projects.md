@@ -3,7 +3,13 @@ title: "Projects"
 disqus: false
 ---
 
-# Email Report in Power BI
+When I began my data journey, it was like training a wild horse—an unpredictable yet thrilling experience. Starting with simple projects, I learned to clean and visualize data, much like grooming a young foal.
+
+With growing expertise came tougher challenges, akin to breaking in a spirited colt. I wrangled complex datasets, corralled outliers, and rode the waves of statistical analysis, aiming to unveil insights for enlightened conclusions.
+
+---
+
+##  Email Report in Power BI
 
 <iframe title="Email Report - finished" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmM1ZmZiMjMtNDZlZS00ZjJlLTllOWQtYzhhMjBkNWQzZjUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -11,13 +17,17 @@ disqus: false
 
 In this project, I created a captivating email report dashboard using Power BI. The process involved designing visuals within Power BI and refining the design in Figma. I organized the data, including email addresses, subjects, countries, and timestamps, into a structured data model. The dashboard's objective was to provide insights into email volume trends, distribution between received and sent emails, average email count per week, and daily traffic patterns. I focused on making the report descriptive and visually appealing, emphasizing key metrics and trends through carefully crafted visualizations. The resulting dashboard offers a comprehensive overview of email activity, enhancing data-driven decision-making.
 
-# HR Analytics Dashboard in Power BI
+---
+
+##  HR Analytics Dashboard in Power BI
 
 <iframe title="Power BI HR Dashboard - Home" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTk3ZmI0YWMtODYwNS00NTI0LTljM2QtNjU5ODUwN2Y2MWI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 This dashboard is built from a 1470-row open HR dataset collected from Kaggle. It's a navigable report with three buttons to see the full HR insight.
 
-# Investigate Medical Appointments
+---
+
+## Investigate Medical Appointments
 
 A person takes a doctor's appointment, receives all the instructions, and no-show. Who's to blame?
 In this project, I will try to analyse why would some patient not show up for their medical appointment or whether there are reasons for that using the data we have. I will try to find some correlation betwen the different attributes and whether the patient shows up or not. The dataset I'm are going to use contains 110.527 medical appointments and its 14 associated variables ( PatientId, AppointmentID, Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hypertension, Diabetes, Alcoholism, Handcap', SMS_received, No-show )
@@ -51,7 +61,9 @@ In this project, I will try to analyse why would some patient not show up for th
 
 Check the full project [here](https://nbviewer.org/github/zeidombo/investigate-medical-appointment/blob/master/investigate_medical_appointment.ipynb).
 
-# Fraud and ID Theft Dashboard using Streamlit and Folium
+----
+
+## Fraud and ID Theft Dashboard using Streamlit and Folium
 
 In this project I built a python streamlit dashboard app that visualizes data in an interactive folium map. The dashboard is a remake of [*Fraud and Identity Theft Report*](https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudandIDTheftMaps/AllReportsbyState) published by US Federal Trade Commission originally made with Tableau. I thought it might be challenging to replicate it with streamlit and it was time well spent.
 
@@ -59,8 +71,10 @@ In this project I built a python streamlit dashboard app that visualizes data in
 
 See a demo [here](https://zytaga-streamlit-folium-dashboard-streamlit-app-1all7m.streamlit.app) or visit my [github repository](https://github.com/zeidombo/streamlit-folium-dashboard) of the project.
 
+---
 
-# Forecasting the Weather Using Facebook's Prophet Algorithm
+
+## Forecasting the Weather Using Facebook's Prophet Algorithm
 
 <!-- <iframe src="https://nbviewer.org/github/zeidombo/weather-forecast-using-facebook-prophet/blob/master/weather_forecast.ipynb" width="811" height="667">
 </iframe> -->
@@ -72,3 +86,7 @@ The project began with the collection and preparation of local weather data spec
 Overall, the project showcased the effectiveness of the Facebook Prophet algorithm in accurately predicting the weather, establishing it as a valuable tool for weather forecasting tasks, particularly in datasets characterized by distinct seasonal variations.
 
 Check the full project [here](https://nbviewer.org/github/zeidombo/weather-forecast-using-facebook-prophet/blob/master/weather_forecast.ipynb).
+
+---
+If you have questions or comments about any of these projects, please feel free to [get in touch](/contact).
+---
