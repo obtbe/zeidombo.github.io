@@ -2,7 +2,7 @@
 layout: project
 title: Email Report in Power BI
 date: 2023-06-18
-# permalink: /projects/email-report
+permalink: /projects/email-report
 ---
 
 

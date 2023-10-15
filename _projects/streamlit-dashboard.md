@@ -2,7 +2,7 @@
 layout: project
 title: Fraud and ID Theft Dashboard using Streamlit and Folium
 date: 2023-05-25
-# permalink: /projects/2023-05-25-streamlit-dashboard
+permalink: /projects/streamlit-dashboard
 ---
 
 In this project I built a python streamlit dashboard app that visualizes data in an interactive folium map. The dashboard is a remake of [*Fraud and Identity Theft Report*](https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudandIDTheftMaps/AllReportsbyState) published by US Federal Trade Commission originally made with Tableau. I thought it might be challenging to replicate it with streamlit and it was time well spent.
