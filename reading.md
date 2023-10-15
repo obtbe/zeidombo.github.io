@@ -10,7 +10,7 @@ disqus: false
 
 ## Recently Read
 
-- *[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257), by [Cole Nussbaumer Knafic](https://www.linkedin.com/in/colenussbaumer/)*     
+- *[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257), by [Cole Nussbaumer Knaflic](https://www.linkedin.com/in/colenussbaumer/)*     
   In this insightful book, Knafic explores the art of data storytelling, offering practical tips and techniques to effectively communicate data. It has reshaped how I present and visualize data in a compelling and understandable manner.
 
 - *[Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), by [Nassim Nicholas Taleb](https://www.fooledbyrandomness.com/)*    
