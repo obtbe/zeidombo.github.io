@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Fraud and ID Theft Dashboard using Streamlit and Folium
 date: 2023-05-25
 # permalink: /projects/streamlit-dashboard

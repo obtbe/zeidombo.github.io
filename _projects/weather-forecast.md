@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Forecasting the Weather Using Facebook's Prophet Algorithm
 date: 2023-03-22
 # permalink: /projects/weather-forecast

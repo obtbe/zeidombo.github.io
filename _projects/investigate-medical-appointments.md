@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Investigate Medical Appointments
 date: 2022-12-15
 # permalink: /projects/investigate-medical-appointments
