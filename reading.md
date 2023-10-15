@@ -23,4 +23,4 @@ disqus: false
   Fun fact: I've read this book more than 7 times, and I'm not stopping there. I found it in my father's office for the first time and was immediately captivated by its insights into fundamental economic principles. It's a timeless read that deepens my understanding of economic concepts with each revisit.
 
 - *[I Know Why the Caged Bird Sings](https://www.amazon.com/Know-Why-Caged-Bird-Sings/dp/0345514408), by [Maya Angelou](https://www.mayaangelou.com/biography/)*   
-  Maya Angelou's powerful memoir illuminates her early life struggles and triumphs, painting a vivid picture of a resilient spirit rising above adversity. She's by far my favorite human being on earth :)
+  Maya Angelou's powerful memoir illuminates her early life struggles and triumphs, painting a vivid picture of a resilient spirit rising above adversity. She's by far one of my favorite human beings on earth :)
