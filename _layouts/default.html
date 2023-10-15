@@ -1,76 +1,82 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+  {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/my_styles.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/my_styles.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <style>
-      /* Custom styling for navigation sections */
-      .nav-section {
-        font-size: 14px; /* Adjusted font size */
-        font-weight: bold;
-        padding: 6px 10px; /* Adjusted padding for reduced width */
-        text-decoration: none;
-        color: black; /* Text color: black */
-        border: 2px solid #008000; /* Border color: Green */
-        border-radius: 6px; /* Adjusted border radius */
-        margin: 0 4px; /* Adjusted spacing between sections */
-        display: inline-block; /* Display sections inline */
-      }
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> <!-- Font Awesome stylesheet -->
 
-      .nav-section:hover {
-        border-color: red; /* Change the border color on hover */
-        color: red; /* Change the text color on hover */
-      }
-    </style>
+  <style>
+    /* Custom styling for navigation sections */
+    .nav-section {
+      font-size: 16px;
+      font-weight: bold;
+      padding: 10px 20px;
+      text-decoration: none;
+      color: #333;
+      background-color: #f9f9f9;
+      border: 2px solid transparent;
+      border-radius: 10px;
+      margin: 0 10px;
+      display: inline-block;
+      transition: all 0.3s ease; /* Smooth transition effect */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    }
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+    .nav-section:hover {
+      background-color: #e0e0e0; /* Change the background color on hover */
+      border-color: #008000; /* Change the border color on hover */
+      color: #008000; /* Change the text color on hover */
+    }
+  </style>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+</head>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+<body>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <nav>
-            <a class="nav-section" href="{{ site.baseurl }}/">Blog</a>
-            <a class="nav-section" href="{{ site.baseurl }}/about">About</a>
-            <a class="nav-section" href="{{ site.baseurl }}/projects">Projects</a>
-            <a class="nav-section" href="{{ site.baseurl }}/books">Books</a>
-            <a class="nav-section" href="{{ site.baseurl }}/reading">Reading</a>
-            <a class="nav-section" href="{{ site.baseurl }}/contact">Contact</a>
-          </nav>
-        </header>
-      </div>
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+
+        <nav>
+          <a class="nav-section" href="{{ site.baseurl }}/"><i class="fas fa-blog"></i> Blog</a>
+          <a class="nav-section" href="{{ site.baseurl }}/about"><i class="fas fa-user"></i> About</a>
+          <a class="nav-section" href="{{ site.baseurl }}/projects"><i class="fas fa-code"></i> Projects</a>
+          <a class="nav-section" href="{{ site.baseurl }}/books"><i class="fas fa-book"></i> Books</a>
+          <a class="nav-section" href="{{ site.baseurl }}/reading"><i class="fas fa-book-open"></i> Reading</a>
+          <a class="nav-section" href="{{ site.baseurl }}/contact"><i class="fas fa-envelope"></i> Contact</a>
+        </nav>
+      </header>
     </div>
+  </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        {% include svg-icons.html %}
+      </footer>
     </div>
+  </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+  {% include analytics.html %}
+</body>
 </html>
