@@ -29,7 +29,8 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
   <img src="/images/jupyter.png" alt="Jupyter Icon" width="48" height="48">
   <img src="/images/tableau.png" alt="Tableau Icon" width="48" height="48">
   <img src="/images/plotly.png" alt="Plotly Icon" width="143" height="48">
-  <img src="/images/streamlit.png" alt="Streamlit Icon" width="143" height="48">
+  <img src="/images/streamlit.png" alt="Streamlit Icon" width="48" height="48">
+  <img src="/images/sql.png" alt="SQL Icon" width="48" height="48">
   <!-- Add similar lines for other tools -->
 </div>
 
