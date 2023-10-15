@@ -1,9 +1,9 @@
 ---
 title: "About"
 date: 2023-10-09T10:00:00Z
-description: "Hello, I am a data analyst with a strong aptitude for harnessing the power of data to generate valuable insights and drive business solutions. My technical skills include proficiency in Python, SQL, and Power BI."
-
+description: ""
 ---
+<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
 My journey in the realm of data analysis traces its origins to the heartland of Africa, where I took my first steps toward a lifelong passion. Raised in a family deeply connected to the land and its traditions, my earliest memories are woven with the tales of my grandfather—a cowboy of remarkable skill and wisdom.
 
@@ -46,3 +46,5 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 * [Data Humanized](https://podcasts.apple.com/us/podcast/data-humanized-by-correlation-one/id1693484349) - Correlation One
 * [Making Sense with Sam Harris](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) - Sam Harris
 * [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
+
+<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
