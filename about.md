@@ -20,6 +20,18 @@ My journey is a tribute to my grandfather, whose legacy lives on in my approach 
 Thank you for visiting my website. I hope you find both the beauty and power of data reflected in its content.
 <!-- ![Mariam](themes/ezhil/images/zmariam.png) -->
 
+## Tools I use
+
+<div class="tool-icons">
+  <img src="/images/python.png" alt="Python Icon" width="48" height="48">
+  <img src="/images/powerbi.png" alt="Power BI Icon" width="48" height="48">
+  <img src="/images/git.png" alt="Git Icon" width="48" height="48">
+  <img src="/images/jupyter.png" alt="Jupyter Icon" width="48" height="48">
+  <img src="/images/tableau.png" alt="Tableau Icon" width="48" height="48">
+  <!-- Add similar lines for other tools -->
+</div>
+
+
 
 ## My Go-to Podcasts
 * [Candace Owens](https://podcasts.apple.com/us/podcast/candace-owens/id1556687660) - Candace Owens via The Daily Wire
