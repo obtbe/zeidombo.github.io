@@ -20,7 +20,8 @@ My journey is a tribute to my grandfather, whose legacy lives on in my approach 
 Thank you for visiting my website. I hope you find both the beauty and power of data reflected in its content.
 <!-- ![Mariam](themes/ezhil/images/zmariam.png) -->
 
-## Tools I use
+<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
+## Tech I use and master (among others)
 
 <div class="tool-icons">
   <img src="/images/sql.png" alt="SQL Icon" width="48" height="48">
@@ -34,10 +35,8 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
   <img src="/images/jupyter.png" alt="Jupyter Icon" width="48" height="48">
   <img src="/images/tableau.png" alt="Tableau Icon" width="48" height="48">
   
-  
-
-  <!-- Add similar lines for other tools -->
 </div>
+<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
 
 
