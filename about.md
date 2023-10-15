@@ -25,9 +25,10 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 <div class="tool-icons">
   <img src="/images/sql.png" alt="SQL Icon" width="48" height="48">
   <img src="/images/python.png" alt="Python Icon" width="48" height="48">
-  <img src="/images/plotly.png" alt="Plotly Icon" width="135" height="48">
+  <img src="/images/plotly.png" alt="Plotly Icon" width="120" height="48">
   <img src="/images/streamlit.png" alt="Streamlit Icon" width="48" height="48">
-  <img src="/images/pandas.png" alt="Pandas Icon" width="48" height="48">
+  <img src="/images/pandas.png" alt="Pandas Icon" width="100" height="48">
+  <img src="/images/numpy.png" alt="Numpy Icon" width="100" height="48">
   <img src="/images/powerbi.png" alt="Power BI Icon" width="48" height="48">
   <img src="/images/git.png" alt="Git Icon" width="48" height="48">
   <img src="/images/jupyter.png" alt="Jupyter Icon" width="48" height="48">
