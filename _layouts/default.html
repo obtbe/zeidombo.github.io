@@ -32,6 +32,11 @@
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
     }
 
+    /* Adjusted styling for the Contact section */
+    .nav-section.contact {
+      margin-left: auto; /* Push Contact to the right */
+    }
+
     .nav-section:hover {
       background-color: #e0e0e0; /* Change the background color on hover */
       border-color: #008000; /* Change the border color on hover */
@@ -59,7 +64,7 @@
           <a class="nav-section" href="{{ site.baseurl }}/projects"><i class="fas fa-code"></i> Projects</a>
           <a class="nav-section" href="{{ site.baseurl }}/books"><i class="fas fa-book"></i> Books</a>
           <a class="nav-section" href="{{ site.baseurl }}/reading"><i class="fas fa-book-open"></i> Reading</a>
-          <a class="nav-section" href="{{ site.baseurl }}/contact"><i class="fas fa-envelope"></i> Contact</a>
+          <a class="nav-section contact" href="{{ site.baseurl }}/contact"><i class="fas fa-envelope"></i> Contact</a>
         </nav>
       </header>
     </div>
