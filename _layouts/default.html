@@ -20,7 +20,7 @@
     .nav-section {
       font-size: 16px;
       font-weight: bold;
-      padding: 10px 0; /* Adjusted padding */
+      padding: 10px 15px; /* Adjusted padding for most sections */
       text-decoration: none;
       color: #333;
       background-color: #f9f9f9;
@@ -34,7 +34,13 @@
 
     /* Adjusted styling for the Contact section */
     .nav-section.contact {
+      padding: 15px 25px; /* Adjusted padding for Contact */
       margin-left: auto; /* Push Contact to the right */
+    }
+
+    /* Adjusted styling for the Reading section */
+    .nav-section.reading {
+      padding: 15px 20px; /* Adjusted padding for Reading */
     }
 
     .nav-section:hover {
@@ -63,7 +69,7 @@
           <a class="nav-section" href="{{ site.baseurl }}/about"><i class="fas fa-user"></i> About</a>
           <a class="nav-section" href="{{ site.baseurl }}/projects"><i class="fas fa-code"></i> Projects</a>
           <a class="nav-section" href="{{ site.baseurl }}/books"><i class="fas fa-book"></i> Books</a>
-          <a class="nav-section" href="{{ site.baseurl }}/reading"><i class="fas fa-book-open"></i> Reading</a>
+          <a class="nav-section reading" href="{{ site.baseurl }}/reading"><i class="fas fa-book-open"></i> Reading</a>
           <a class="nav-section contact" href="{{ site.baseurl }}/contact"><i class="fas fa-envelope"></i> Contact</a>
         </nav>
       </header>
