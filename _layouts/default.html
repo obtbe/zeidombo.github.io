@@ -17,30 +17,19 @@
 
   <style>
     /* Custom styling for navigation sections */
-    .nav-sections {
-      display: flex;
-      align-items: center;
-      overflow-x: auto; /* Enable horizontal scrolling on small screens */
-    }
-
     .nav-section {
-      font-size: 14px; /* Adjusted font size */
+      font-size: 16px;
       font-weight: bold;
-      padding: 8px 16px; /* Adjusted padding */
+      padding: 10px 0; /* Adjusted padding */
       text-decoration: none;
-      color: #fff;
-      background: linear-gradient(45deg, #008000, #00bfff); /* Gradient background */
-      border: none;
-      border-radius: 15px; /* Adjusted border radius */
+      color: #333;
+      background-color: #f9f9f9;
+      border: 2px solid transparent;
+      border-radius: 10px;
       margin: 0 5px; /* Adjusted margin */
+      display: inline-block;
       transition: all 0.3s ease; /* Smooth transition effect */
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow */
-      display: flex;
-      align-items: center; /* Center items vertically */
-    }
-
-    .nav-section i {
-      margin-right: 10px; /* Adjusted margin between icon and text */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
     }
 
     /* Adjusted styling for the Contact section */
@@ -48,14 +37,10 @@
       margin-left: auto; /* Push Contact to the right */
     }
 
-    /* Adjusted margin for the first nav-section (Blog) */
-    .nav-section:first-child {
-      margin-left: 0; /* Remove margin for the first nav-section (Blog) */
-    }
-
     .nav-section:hover {
-      background: linear-gradient(45deg, #00bfff, #008000); /* Change the gradient on hover */
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Change shadow on hover */
+      background-color: #e0e0e0; /* Change the background color on hover */
+      border-color: #008000; /* Change the border color on hover */
+      color: #008000; /* Change the text color on hover */
     }
   </style>
 
@@ -73,7 +58,7 @@
           <p class="site-description">{{ site.description }}</p>
         </div>
 
-        <nav class="nav-sections">
+        <nav>
           <a class="nav-section" href="{{ site.baseurl }}/"><i class="fas fa-blog"></i> Blog</a>
           <a class="nav-section" href="{{ site.baseurl }}/about"><i class="fas fa-user"></i> About</a>
           <a class="nav-section" href="{{ site.baseurl }}/projects"><i class="fas fa-code"></i> Projects</a>
