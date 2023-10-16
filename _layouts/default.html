@@ -17,6 +17,11 @@
 
   <style>
     /* Custom styling for navigation sections */
+    .nav-sections {
+      display: flex;
+      align-items: center;
+    }
+
     .nav-section {
       font-size: 16px;
       font-weight: bold;
@@ -27,7 +32,6 @@
       border: none;
       border-radius: 30px; /* Adjusted border radius */
       margin: 0 10px; /* Adjusted margin */
-      display: inline-block;
       transition: all 0.3s ease; /* Smooth transition effect */
       box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1); /* Box shadow */
     }
@@ -57,7 +61,7 @@
           <p class="site-description">{{ site.description }}</p>
         </div>
 
-        <nav>
+        <nav class="nav-sections">
           <a class="nav-section" href="{{ site.baseurl }}/"><i class="fas fa-blog"></i> Blog</a>
           <a class="nav-section" href="{{ site.baseurl }}/about"><i class="fas fa-user"></i> About</a>
           <a class="nav-section" href="{{ site.baseurl }}/projects"><i class="fas fa-code"></i> Projects</a>
