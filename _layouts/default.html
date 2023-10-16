@@ -20,15 +20,14 @@
     .nav-sections {
       display: flex;
       align-items: center;
-      overflow-x: auto; /* Allow horizontal scrolling on smaller screens */
-      padding-bottom: 8px; /* Adjusted padding */
-      flex-wrap: nowrap; /* Prevent wrapping on smaller screens */
+      margin-left: -10px; /* Adjusted negative margin */
+      margin-right: -10px; /* Adjusted negative margin */
     }
 
     .nav-section {
       font-size: 14px; /* Adjusted font size */
       font-weight: bold;
-      padding: 8px 12px; /* Adjusted padding */
+      padding: 8px 16px; /* Adjusted padding */
       text-decoration: none;
       color: #fff;
       background: linear-gradient(45deg, #008000, #00bfff); /* Gradient background */
@@ -56,7 +55,7 @@
     }
 
     .nav-section:hover {
-      background: linear-gradient(45deg, #ff0000, #cc0000); /* Change the gradient on hover to red shades */
+      background: linear-gradient(45deg, #00bfff, #008000); /* Change the gradient on hover */
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Change shadow on hover */
     }
   </style>
