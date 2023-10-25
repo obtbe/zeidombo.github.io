@@ -46,5 +46,8 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 * [Data Humanized](https://podcasts.apple.com/us/podcast/data-humanized-by-correlation-one/id1693484349) - Correlation One
 * [Making Sense with Sam Harris](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) - Sam Harris
 * [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
+* [How Can I Say This...](https://howcanisaythis.com/about/) - Beth Buelow
+* [HBR IdeaCast](https://hbr.org/2018/01/podcast-ideacast) - Harvard Business Review
+* [StarTalk Radio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80VDM5X2pBag) - Neil deGrasse Tyson
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
