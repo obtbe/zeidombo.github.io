@@ -21,7 +21,7 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 <!-- ![Mariam](themes/ezhil/images/zmariam.png) -->
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
-## Tech I use and master (among others)
+## Tech I use (among others)
 
 <div class="tool-icons">
   <img src="/images/sql.png" alt="SQL Icon" width="48" height="48">
