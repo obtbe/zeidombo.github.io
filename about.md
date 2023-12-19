@@ -12,7 +12,7 @@ In those formative years, my grandfather's love for horses and the rugged beauty
 Much like the bond between a cowboy and their steed, my affinity for data grew stronger. I saw data not just as raw information but as a living, dynamic entity requiring care, understanding, and skilled guidance. Just as my grandfather knew the unique nuances of each horse under his care,
 I learned to navigate and interpret the intricacies of data sets.
 
-Today as a Google certified data analyst and a DS4A fellow at Correlation One, I am armed with proficiency in Python, SQL, and Power BI, I strive to ride the waves of data with the same finesse and reverence my grandfather exhibited with his horses.
+Today as a Google certified data analyst and a [DS4A fellow](https://www.credential.net/67d98bab-1d5c-482f-91bd-3b54c6690092) at Correlation One, I am armed with proficiency in Python, SQL, and Power BI, I strive to ride the waves of data with the same finesse and reverence my grandfather exhibited with his horses.
 Just as he relied on keen observation and intuition, I utilize advanced analytical tools and techniques to harness the power of data, aiming to provide valuable insights and drive solutions for businesses.
 
 My journey is a tribute to my grandfather, whose legacy lives on in my approach to data analysis—a blend of dedication, empathy, and a deep-rooted understanding of the connections that tie us all.
