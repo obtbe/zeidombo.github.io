@@ -1,98 +1,96 @@
 /* Apply font and base styles from Ezhil Hugo theme */
 body {
-    background: #ffffff;
-    font: 18px/1.4 "Helvetica", sans-serif;
-    color: #333333;
-  }
-  
-  .container {
-    margin: 0 auto;
-    max-width: 740px;
-    padding: 0 10px;
-    width: 100%;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", sans-serif;
-    color: #333333;
-    font-weight: bold;
-    line-height: 1.7;
-    margin: 1em 0 15px;
-    padding: 0;
-  }
-  
-  h1 {
-    font-size: 30px;
-  }
-  
-  h2 {
-    font-size: 24px;
-  }
-  
-  h3 {
-    font-size: 20px;
-  }
-  
-  h4 {
-    font-size: 18px;
-    color: #808080;
-  }
-  
-  p {
-    margin: 15px 0;
-  }
-  
-  a {
-    color: #0000bb;
-    text-decoration: none;
-    cursor: pointer;
-  }
-  
-  a:hover, a:active {
-    color: #0000bb;
-  }
-  
-  ul, ol {
-    margin: 15px 0;
-    padding-left: 30px;
-  }
-  
-  ul {
-    list-style-type: disc;
-  }
-  
-  ol {
-    list-style-type: decimal;
-  }
-  
-  ol ul, ul ol, ul ul, ol ol {
-    margin: 0;
-  }
-  
-  ul ul, ol ul {
-    list-style-type: circle;
-  }
-  
-  em, i {
-    font-style: italic;
-  }
-  
-  strong, b {
-    font-weight: bold;
-  }
-  
-  img {
-    max-width: 100%;
-    border: 1px solid #777777;
-  }
-  
-  .date {
-    font-style: italic;
-    color: #808080;
-  }
-  
-  /* ... Add more styles from the Ezhil Hugo theme as needed ... */
-  
-  /* Additional styles specific to your Jekyll setup */
-  /* ... Add your custom styles ... */
-  
+  background: #000000; /* Dark background for futuristic vibe */
+  font: 18px/1.4 "Roboto", sans-serif; /* Roboto is a modern, futuristic font */
+  color: #ffffff; /* White text for high contrast */
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif; /* Use Roboto font for headings */
+  color: #ffffff; /* White headings */
+  font-weight: bold;
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+}
+
+h1 {
+  font-size: 36px; /* Increase size for emphasis */
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+  color: #cccccc; /* Light gray for subheadings */
+}
+
+p {
+  margin: 15px 0;
+}
+
+a {
+  color: #00ffcc; /* Cyan color for links */
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+
+a:hover, a:active {
+  color: #ffffff; /* White on hover */
+}
+
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+ul {
+  list-style-type: none; /* Remove default bullet points */
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol ul, ul ol, ul ul, ol ol {
+  margin: 0;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  border: none; /* Remove image borders */
+}
+
+.date {
+  font-style: italic;
+  color: #cccccc; /* Light gray for dates */
+}
+
+/* Additional styles specific to your Jekyll setup */
+/* ... Add your custom styles ... */
