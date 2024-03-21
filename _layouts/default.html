@@ -1,35 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
+  
+  <!-- Include meta tags -->
   {% include meta.html %}
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+  <!-- Font Awesome stylesheet -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/my_styles.css" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> <!-- Font Awesome stylesheet -->
+  <!-- Link to your custom CSS file -->
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/my_styles.css">
 
   <style>
     /* Custom styling for navigation sections */
     .nav-section {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: bold;
-      padding: 10px 0; /* Adjusted padding */
+      padding: 12px 15px; /* Adjusted padding */
       text-decoration: none;
       color: #333;
       background-color: #f9f9f9;
       border: 2px solid transparent;
-      border-radius: 10px;
-      margin: 0 5px; /* Adjusted margin */
+      border-radius: 30px; /* Increased border radius for a softer look */
+      margin: 0 10px; /* Adjusted margin */
       display: inline-block;
       transition: background-color 0.3s ease; /* Smooth transition for background color */
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
     }
 
     /* Adjusted styling for the Contact section */
@@ -38,25 +38,57 @@
     }
 
     .nav-section:hover {
-      background-color: gold; /* Change the background color on hover to gold */
+      background-color: #ffdf6b; /* Change the background color on hover to a divine gold */
       border-color: transparent; /* Remove border color on hover */
+    }
+
+    /* Styling for site info */
+    .site-info {
+      margin-top: 20px; /* Adjusted margin */
+      text-align: center; /* Center align site info */
+    }
+
+    .site-name {
+      font-size: 36px; /* Larger font size for site name */
+      color: #333; /* Dark color for contrast */
+      margin-bottom: 5px; /* Adjusted margin */
+    }
+
+    .site-description {
+      font-size: 18px; /* Slightly smaller font size for description */
+      color: #666; /* Slightly lighter color */
+      margin-bottom: 20px; /* Adjusted margin */
+    }
+
+    /* Adjusted styling for footer */
+    .wrapper-footer {
+      background-color: #f9f9f9; /* Light background for footer */
+      padding: 30px 0; /* Adjusted padding */
+    }
+
+    .footer {
+      text-align: center; /* Center align footer content */
+      color: #666; /* Lighter text color */
     }
   </style>
 
-  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 </head>
 
 <body>
-  <div class="wrapper-masthead">
+  <!-- Masthead section -->
+  <header class="wrapper-masthead">
     <div class="container">
-      <header class="masthead clearfix">
-        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      <div class="masthead clearfix">
+        <!-- Site avatar -->
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" alt="{{ site.name }}"></a>
 
+        <!-- Site info -->
         <div class="site-info">
           <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
           <p class="site-description">{{ site.description }}</p>
         </div>
 
+        <!-- Navigation -->
         <nav>
           <a class="nav-section" href="{{ site.baseurl }}/"><i class="fas fa-blog"></i> Blog</a>
           <a class="nav-section" href="{{ site.baseurl }}/about"><i class="fas fa-user"></i> About</a>
@@ -65,14 +97,16 @@
           <a class="nav-section" href="{{ site.baseurl }}/reading"><i class="fas fa-book-open"></i> Reading</a>
           <a class="nav-section contact" href="{{ site.baseurl }}/contact"><i class="fas fa-envelope"></i> Contact</a>
         </nav>
-      </header>
+      </div>
     </div>
-  </div>
+  </header>
 
+  <!-- Main content section -->
   <div id="main" role="main" class="container">
     {{ content }}
   </div>
 
+  <!-- Footer section -->
   <div class="wrapper-footer">
     <div class="container">
       <footer class="footer">
@@ -81,6 +115,7 @@
     </div>
   </div>
 
+  <!-- Include analytics -->
   {% include analytics.html %}
 </body>
 </html>
