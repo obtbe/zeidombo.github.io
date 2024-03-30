@@ -5,13 +5,17 @@ description: ""
 ---
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-From a young age, I've been captivated by the interplay of numbers and the natural world. My grandfather, a seasoned equestrian, played a formative role in nurturing this dual fascination. As he guided me through the rhythmic movements of horseback riding in his rustic family stable, he would simultaneously weave in lessons on the underlying mathematics - the angles, the leverage, the precise calculations required to achieve harmony with the animals.
+My journey in the realm of data analysis traces its origins to the heartland of Africa, where I took my first steps toward a lifelong passion. Raised in a family deeply connected to the land and its traditions, my earliest memories are woven with the tales of my grandfather—a cowboy of remarkable skill and wisdom.
 
-This early exposure to the elegance of quantitative reasoning, juxtaposed with the earthy textures of the great outdoors, left an indelible mark. I found myself equally enthralled by the abstract patterns of numbers and the tangible patterns of the natural environment.
+In those formative years, my grandfather's love for horses and the rugged beauty of the countryside left an indelible mark on my spirit. Watching him tend to the horses, methodically analyzing their behavior and needs, I began to grasp the parallels between his art and the world of data.
 
-Today as a Google certified data analyst and a [DS4A fellow](https://www.credential.net/67d98bab-1d5c-482f-91bd-3b54c6690092) at Correlation One, I can easily navigate uncertain situations to produce the desired outcome because of my level-head, analytical skills, communication, and global outlook. That has allowed me much success in my endeavors as the Founder of Quantidum, a data analytics consulting firm where we use advanced analytical tools and techniques to help businesses make better decisions. My passion for learning and continuous development has propelled me further than I could imagine and have inspired the people around me.
+Much like the bond between a cowboy and their steed, my affinity for data grew stronger. I saw data not just as raw information but as a living, dynamic entity requiring care, understanding, and skilled guidance. Just as my grandfather knew the unique nuances of each horse under his care,
+I learned to navigate and interpret the intricacies of data sets.
 
-From a young age, I was encouraged to get involved in the community and give back in whatever way possible. I'm currently working on a non-profit, MANSAPI, to cultivate a passion for STEM subjects among students through educational initiatives, fostering a deep appreciation and enthusiasm for science, technology, engineering, and mathematics.
+Today as a Google certified data analyst and a [DS4A fellow](https://www.credential.net/67d98bab-1d5c-482f-91bd-3b54c6690092) at Correlation One, I am armed with proficiency in Python, SQL, and Power BI, I strive to ride the waves of data with the same finesse and reverence my grandfather exhibited with his horses.
+Just as he relied on keen observation and intuition, I utilize advanced analytical tools and techniques to harness the power of data, aiming to provide valuable insights and drive solutions for businesses.
+
+My journey is a tribute to my grandfather, whose legacy lives on in my approach to data analysis—a blend of dedication, empathy, and a deep-rooted understanding of the connections that tie us all.
 
 Thank you for visiting my website. I hope you find both the beauty and power of data reflected in its content.
 <!-- ![Mariam](themes/ezhil/images/zmariam.png) -->
