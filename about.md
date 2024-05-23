@@ -40,10 +40,10 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 
 * [Data Humanized](https://podcasts.apple.com/us/podcast/data-humanized-by-correlation-one/id1693484349) - Correlation One
 * [Eckhart Tolle: Essential Teachings](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91M042OVI3TQ?sa=X&ved=0CAMQ4aUDahcKEwjgh7rilqSGAxUAAAAAHQAAAAAQAg) - Eckhart Tolle & Oprah Winfrey
-* [Making Sense with Sam Harris](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) - Sam Harris
+* [Making Sense with Sam Harris](https://podcasts.google.com/feed/aHR0cHM6Ly93YWtpbmd1cC5saWJzeW4uY29tL3Jzcw) - Sam Harris
 * [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
 * [How Can I Say This...](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzViN2Y0MzhkYTEzZTBhMTE3Y2E0ZTU0OQ?sa=X&ved=0CAMQ4aUDahcKEwio64GXlaSGAxUAAAAAHQAAAAAQFQ) - Beth Buelow
-* [HBR IdeaCast](https://hbr.org/2018/01/podcast-ideacast) - Harvard Business Review
+* [HBR IdeaCast](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0) - Harvard Business Review
 * [StarTalk Radio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80VDM5X2pBag) - Neil deGrasse Tyson
 * [Candace Owens](https://podcasts.apple.com/us/podcast/candace-owens/id1556687660) - Candace Owens via The Daily Wire
 * [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) - Lex Fridman
