@@ -45,7 +45,6 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 * [How Can I Say This...](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzViN2Y0MzhkYTEzZTBhMTE3Y2E0ZTU0OQ?sa=X&ved=0CAMQ4aUDahcKEwio64GXlaSGAxUAAAAAHQAAAAAQFQ) - Beth Buelow
 * [HBR IdeaCast](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0) - Harvard Business Review
 * [StarTalk Radio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80VDM5X2pBag) - Neil deGrasse Tyson
-* [Candace Owens](https://podcasts.apple.com/us/podcast/candace-owens/id1556687660) - Candace Owens via The Daily Wire
-* [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) - Lex Fridman
+* [Lex Fridman Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9sZXhmcmlkbWFuLmNvbS9mZWVkL3BvZGNhc3Qv) - Lex Fridman
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
