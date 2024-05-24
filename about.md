@@ -42,9 +42,11 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 * [Eckhart Tolle: Essential Teachings](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91M042OVI3TQ?sa=X&ved=0CAMQ4aUDahcKEwjgh7rilqSGAxUAAAAAHQAAAAAQAg) - Eckhart Tolle & Oprah Winfrey
 * [Making Sense with Sam Harris](https://podcasts.google.com/feed/aHR0cHM6Ly93YWtpbmd1cC5saWJzeW4uY29tL3Jzcw) - Sam Harris
 * [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
+* [Y Combinator Startup Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84YzE1MjRiYy9wb2RjYXN0L3Jzcw) - Y Combinator
 * [How Can I Say This...](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzViN2Y0MzhkYTEzZTBhMTE3Y2E0ZTU0OQ?sa=X&ved=0CAMQ4aUDahcKEwio64GXlaSGAxUAAAAAHQAAAAAQFQ) - Beth Buelow
 * [HBR IdeaCast](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0) - Harvard Business Review
 * [StarTalk Radio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80VDM5X2pBag) - Neil deGrasse Tyson
 * [Lex Fridman Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9sZXhmcmlkbWFuLmNvbS9mZWVkL3BvZGNhc3Qv) - Lex Fridman
+* [Lightcone Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNThkMzMzMC9wb2RjYXN0L3Jzcw) - Y Combinator
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
