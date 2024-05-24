@@ -38,7 +38,7 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 
 ## My Go-to Podcasts
 
-* [Data Humanized](https://podcasts.apple.com/us/podcast/data-humanized-by-correlation-one/id1693484349) - Correlation One
+* [Data Humanized](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bGUuYWkvNjAvNzdkZWQxNzEtYzQxMS00YmFhLWJkYjktNGEzMGQyYWYxYmYyLnJzcw) - Correlation One
 * [Eckhart Tolle: Essential Teachings](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91M042OVI3TQ?sa=X&ved=0CAMQ4aUDahcKEwjgh7rilqSGAxUAAAAAHQAAAAAQAg) - Eckhart Tolle & Oprah Winfrey
 * [Making Sense with Sam Harris](https://podcasts.google.com/feed/aHR0cHM6Ly93YWtpbmd1cC5saWJzeW4uY29tL3Jzcw) - Sam Harris
 * [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
