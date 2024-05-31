@@ -40,6 +40,7 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 
 * [Data Humanized](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bGUuYWkvNjAvNzdkZWQxNzEtYzQxMS00YmFhLWJkYjktNGEzMGQyYWYxYmYyLnJzcw) - Correlation One
 * [Eckhart Tolle: Essential Teachings](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91M042OVI3TQ?sa=X&ved=0CAMQ4aUDahcKEwjgh7rilqSGAxUAAAAAHQAAAAAQAg) - Eckhart Tolle & Oprah Winfrey
+* [Hidden Brain](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9rd1djMGxoZg) - Shankar Vedantam
 * [Making Sense with Sam Harris](https://podcasts.google.com/feed/aHR0cHM6Ly93YWtpbmd1cC5saWJzeW4uY29tL3Jzcw) - Sam Harris
 * [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
 * [Y Combinator Startup Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84YzE1MjRiYy9wb2RjYXN0L3Jzcw) - Y Combinator
