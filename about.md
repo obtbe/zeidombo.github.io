@@ -38,16 +38,20 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 
 ## My Go-to Podcasts
 
-* [Data Humanized](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bGUuYWkvNjAvNzdkZWQxNzEtYzQxMS00YmFhLWJkYjktNGEzMGQyYWYxYmYyLnJzcw) - Correlation One
-* [Eckhart Tolle: Essential Teachings](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS91M042OVI3TQ?sa=X&ved=0CAMQ4aUDahcKEwjgh7rilqSGAxUAAAAAHQAAAAAQAg) - Eckhart Tolle & Oprah Winfrey
-* [Hidden Brain](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9rd1djMGxoZg) - Shankar Vedantam
-* [Making Sense with Sam Harris](https://podcasts.google.com/feed/aHR0cHM6Ly93YWtpbmd1cC5saWJzeW4uY29tL3Jzcw) - Sam Harris
-* [The Glenn Show](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc3Vic3RhY2suY29tL2ZlZWQvcG9kY2FzdC8yNTkwNDQucnNz?sa=X&ved=0CAoQ9sEGahgKEwjInuzz7-6BAxUAAAAAHQAAAAAQmAE) - Glenn Loury
-* [Y Combinator Startup Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84YzE1MjRiYy9wb2RjYXN0L3Jzcw) - Y Combinator
-* [How Can I Say This...](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzViN2Y0MzhkYTEzZTBhMTE3Y2E0ZTU0OQ?sa=X&ved=0CAMQ4aUDahcKEwio64GXlaSGAxUAAAAAHQAAAAAQFQ) - Beth Buelow
-* [HBR IdeaCast](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmhhcnZhcmRidXNpbmVzcy5vcmcvaGFydmFyZGJ1c2luZXNzL2lkZWFjYXN0) - Harvard Business Review
-* [StarTalk Radio](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80VDM5X2pBag) - Neil deGrasse Tyson
-* [Lex Fridman Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9sZXhmcmlkbWFuLmNvbS9mZWVkL3BvZGNhc3Qv) - Lex Fridman
-* [Lightcone Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mNThkMzMzMC9wb2RjYXN0L3Jzcw) - Y Combinator
+
+* [Heartwork | Ustadh AbdelRahman Murphy](https://podcasts.apple.com/us/channel/roots-community-podcast/id6502764375) - Roots Community Podcast
+* [Mufti Menk](https://podcasts.apple.com/us/podcast/mufti-menk/id592746186) - Muslim Central
+* [Sheikh Assim Al Hakeem](https://podcasts.apple.com/us/podcast/sheikh-assim-al-hakeem/id1723926769) - Sheikh Assim Al Hakeem
+* [How Can I Say This...](https://podcasts.apple.com/us/podcast/how-can-i-say-this/id1434883770) - Beth Buelow
+* [HBR IdeaCast](https://podcasts.apple.com/us/podcast/hbr-ideacast/id152022135) - Harvard Business Review
+* [Data Humanized](https://podcasts.apple.com/us/podcast/data-humanized-by-correlation-one/id1693484349) - Correlation One
+* [Eckhart Tolle: Essential Teachings](https://podcasts.apple.com/us/podcast/eckhart-tolle-essential-teachings/id1458654443) - Eckhart Tolle & Oprah Winfrey
+* [Hidden Brain](https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750) - Shankar Vedantam
+* [Making Sense with Sam Harris](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) - Sam Harris
+* [The Glenn Show](https://podcasts.apple.com/us/podcast/the-glenn-show/id505824976) - Glenn Loury
+* [Y Combinator Startup Podcast](https://podcasts.apple.com/us/podcast/y-combinator-startup-podcast/id1236907421) - Y Combinator
+* [StarTalk Radio](https://podcasts.apple.com/us/podcast/startalk-radio/id325404506) - Neil deGrasse Tyson
+* [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) - Lex Fridman
+* [Lightcone Podcast](https://podcasts.apple.com/us/podcast/lightcone-podcast/id1743860177) - Y Combinator
 
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
