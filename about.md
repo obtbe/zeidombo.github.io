@@ -39,7 +39,7 @@ Thank you for visiting my website. I hope you find both the beauty and power of 
 ## My Go-to Podcasts
 
 
-* [Heartwork | Ustadh AbdelRahman Murphy](https://podcasts.apple.com/us/channel/roots-community-podcast/id6502764375) - Roots Community Podcast
+* [Heartwork](https://podcasts.apple.com/us/channel/roots-community-podcast/id6502764375) - Roots Community Podcast with Ustadh AbdelRahman Murphy
 * [Mufti Menk](https://podcasts.apple.com/us/podcast/mufti-menk/id592746186) - Muslim Central
 * [Sheikh Assim Al Hakeem](https://podcasts.apple.com/us/podcast/sheikh-assim-al-hakeem/id1723926769) - Sheikh Assim Al Hakeem
 * [How Can I Say This...](https://podcasts.apple.com/us/podcast/how-can-i-say-this/id1434883770) - Beth Buelow
